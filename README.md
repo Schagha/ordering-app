@@ -13,9 +13,9 @@ in src:
 **components:**
 
 - Cart
-- - Layout
-- -Shop
-- -UI
+- Layout
+- Shop
+- UI
 - Redux-features: store
 
 #### **Styling:**
