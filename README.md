@@ -16,7 +16,10 @@ in src:
 - Layout
 - Shop
 - UI
-- Redux-features: store
+
+**store:**
+
+- Redux-features
 
 #### **Styling:**
 
