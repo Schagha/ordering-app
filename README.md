@@ -1,6 +1,6 @@
 # 📣 **Summary**
 
-This application (**ordering-app**) is built in React JS, using Redux Toolkit, module CSS, API, Hosting and more! Firebase API is used for fetching the data.
+This application (**ordering-app**) is built in React JS, using Redux Toolkit, and module CSS. Firebase API is used for fetching the data.
 
 ## Source
 
