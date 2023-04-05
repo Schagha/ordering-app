@@ -4,7 +4,7 @@ This application (**ordering-app**) is built in React JS, using Redux Toolkit, a
 
 ## Source
 
-Based on the courese 'React- The Complete Guide' by Maximilian Schwarzmüller  [Tutorial](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+Based on the course 'React- The Complete Guide' by Maximilian Schwarzmüller  [Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 ### Architecture:
 
